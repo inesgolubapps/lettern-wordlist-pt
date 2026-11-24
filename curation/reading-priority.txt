@@ -1,0 +1,31 @@
+# Erste Lesart (Lemma und Wortart der ersten ziel.tsv-Zeile) von Hand festlegen, wo die Reihenfolge eine
+# unpassende wählt. Wirkt nur auf die Reihenfolge, nie darauf, ob eine Form Ziel ist.
+# Format: form  lemma[:wortart]  # Grund
+pros          pro:noun       # Codex 2026-11-20: Vorteile (prós), nicht die Kontraktion
+bebes         bebe:noun      # Babyplural, nicht beber
+contem        conter:verb    # contém
+continuo      continuar:verb
+cortes        corte:noun     # nicht cortês
+esta          estar:verb     # está
+faco          fazer:verb     # faço
+peco          pedir:verb     # peço
+ira           ir:verb        # irá
+louca         louco:adj
+magoa         magoar:verb
+pais          pai:noun       # nicht país
+pos           por:verb       # pôs
+sabia         saber:verb     # nicht sabiá
+serias        serio:adj      # sérias
+termino       terminar:verb
+teve          ter:verb       # nicht tevê
+vira          vir:verb       # virá
+antigas       antigo:adj
+reis          rei:noun
+comidas       comida:noun
+rodas         roda:noun
+gira          girar:verb
+pintada       pintar:verb
+puxado        puxar:verb
+simulado      simular:verb
+manhas        manha:noun     # manhãs (Anzeige bindet die Schreibung)
+falo          falar:verb     # ich spreche

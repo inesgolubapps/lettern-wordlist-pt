@@ -1,0 +1,15 @@
+# Anzeige von Hand festlegen, wo die häufigste brasilianische Schreibung falsch oder die schlechtere Lesart
+# ist. Format: form  schreibung  # Grund
+faca          faca         # Messer, nicht faça (fazer): FACA liest sich als faca (RESEARCH-Portugiesisch §9a.3)
+louca         louca        # verrückt, nicht louça (Geschirr → LOUCA)
+marco         marco        # Grenzstein, nicht março (Monat → MARCO)
+troco         troco        # Wechselgeld, nicht troço (BR „Ding“)
+cristas       cristas      # Kuratierung: cristas (Kämme) statt cristãs (Religion als Gruppe)
+gales         galês        # Kuratierung: gales ist nur Ländername; galês (Walisisch) ist das Wort
+metro         metro        # Kuratierung: gemeinsame Form „metro“ (Meter, PT U-Bahn) statt BR „metrô“
+roma          romã         # Kuratierung: Granatapfel statt Volksgruppe/Eigenname Roma
+tranca        trança       # Kuratierung: Zopf ist das Alltagswort; TRANCA liest harmlos als Riegel
+pros          prós         # Codex: Ziel-Lesart „Vorteile“ (pró); pros ist die Kontraktion pra + os
+subtonica     subtônica    # Codex: brasilianische Anzeige der Flexion
+aalenia       aalênia      # dito
+aalenio       aalênio      # dito

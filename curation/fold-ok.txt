@@ -1,0 +1,5 @@
+# Formen, deren Show eine Cedille oder Tilde verliert und dann zwar ein anderes Wort buchstabiert, das
+# aber harmlos ist (Gegenstück zur Regel „Faltung liest anders“, RESEARCH-Portugiesisch §9a.3).
+# Format: Steinschreibung  # Grund
+manha         # manhã → MANHA; manha („Laune, List“) ist harmlos, der Morgen ein Grundwort
+manhas

@@ -1,0 +1,1526 @@
+# Nie Zielwort, aber gültig als Extrawort. Steinschreibung oder richtige Schreibung (wird gefaltet).
+# Format: Wort  # Grund
+# Doppelgänger mit Tabu-Bedeutung in einem der beiden Länder (RESEARCH-Portugiesisch §4.1, Codex §2)
+rapariga      # PT „Mädchen“, BR abwertend (Prostituierte)
+raparigas
+bicha         # PT „Schlange (Warteschlange)“, homophobes Schimpfwort (BR und PT)
+bichas
+puto          # PT „Junge“, BR vulgär/„wütend“
+putos
+veado         # Hirsch; BR homophobes Schimpfwort
+veados
+pinto         # Küken; BR vulgär
+pintos
+rola          # Turteltaube, Form von rolar; BR vulgär
+rolas
+perereca      # Laubfrosch; BR vulgär
+pererecas
+grelo         # PT Rübstiel; sexuelle Bedeutung in beiden Ländern
+grelos
+pica          # PT „Spritze“, Form von picar; BR vulgär
+picas
+gozar         # „sich lustig machen“ / sexuell (BR)
+goza
+gozou
+gozo
+cacete        # Knüppel; vulgär
+cacetes
+pau           # Holz, Stock; vulgär (BR)
+paus
+pomba         # Taube; vulgär (Teile Brasiliens)
+pombas
+broche        # BR Brosche; PT sexuell (Codex)
+broches
+bico          # Schnabel; PT sexuell (Codex)
+bicos
+biscate       # PT Gelegenheitsarbeit; BR sexualisierte Beleidigung (Codex)
+biscates
+rabo          # Schwanz; vulgär „Hintern“ (Codex)
+rabos
+saco          # Sack, Tüte; vulgär (Codex)
+sacos
+piranha       # Fisch; BR abwertend für Frauen
+piranhas
+safado        # „unverschämt“, sexuell konnotiert
+safada
+corno         # PT Horn; „gehörnter Ehemann“ (Schimpfwort)
+cornos
+bunda         # BR „Hintern“, umgangssprachlich
+bundas
+mama          # Brust; Form von mamar
+mamas
+teta
+tetas
+transar       # BR „Sex haben“
+transa
+peido         # Furz
+mijar
+mijo
+xixi          # Kindersprache
+coco          # Kokosnuss; liest als cocô (Kot) — RESEARCH-Portugiesisch §9a.3
+cocos
+caca          # Kindersprache „Kot“; caça faltet hierauf
+forca         # Galgen; força faltet hierauf
+galego        # Galicier; abwertend in Teilen Brasiliens und Portugals
+galegos
+cigano        # auch abwertend „Betrüger“
+ciganos
+fato          # BR „Tatsache“, PT „Anzug“ — verschiedene Lesarten je Land (Codex §3.2)
+fatos
+
+# Kuratierung Durchgang 1 (alle Zielformen des ersten Baus, fünf Teile; Gründe auch in kuratierung.tsv)
+abate         # Gewalt (Schlachtung/Abschuss)
+abater        # Gewalt (schlachten/abschießen)
+abc           # Abkürzung/Buchstabenfolge
+abortar       # Abtreibung, heikel
+aborto        # Abtreibung, politisch heikel
+abusado       # BR „frech“, sonst „missbraucht“
+abusar        # starke Konnotation Missbrauch
+abusivo       # starke Konnotation Missbrauch
+abuso         # starke Konnotation (sexueller) Missbrauch
+abusos        # starke Konnotation (sexueller) Missbrauch
+ace           # englisches Fremdwort (Tennis)
+acessado      # nur Brasilien (PT: aceder)
+acessar       # nur Brasilien (PT: aceder)
+acesse        # nur Brasilien (PT: aceder)
+adao          # Eigenname (Adão)
+adobe         # selten/Fachwort, v. a. Marke
+afiliada      # selten/fachsprachlich (Sender-Partner)
+afogado       # Tod (Ertrunkener)
+afogar        # Tod (ertränken)
+africa        # Eigenname (África)
+afro          # selten, ethnisch konnotiert
+after         # englisches Fremdwort
+agonia        # Todeskampf
+agra          # selten/Eigenname
+agredido      # Gewalt (Angegriffener)
+agredir       # Gewalt
+agressao      # Gewalt
+agressor      # Gewalt (Angreifer)
+agro          # selten, umgangssprachliche Kurzform
+aires         # v. a. Eigenname (Aires), Verb selten
+alabama       # Eigenname
+alagoano      # Herkunftswort eines Bundesstaats (BR)
+alagoas       # Eigenname (Bundesstaat)
+alba          # selten/Eigenname
+alcada        # selten, juristisch (alçada)
+alcunha       # v. a. Portugal (BR: apelido)
+ale           # englisches Fremdwort (Bier)
+aleluia       # religiöse Interjektion
+alfa          # Buchstabenname
+alferes       # Militärrang, selten
+alia          # selten
+alien         # englisches Fremdwort
+almeida       # Eigenname (Nachname)
+alo           # Interjektion, v. a. Brasilien (PT am Telefon: estou/está)
+alpes         # Eigenname (Alpen)
+alter         # selten (Pferderasse/alter ego)
+aluguer       # nur Portugal (BR: aluguel)
+alvejado      # Gewalt (angeschossen, BR)
+amaral        # Eigenname (Nachname)
+amaro         # Eigenname/selten
+amazonas      # Eigenname (Fluss/Bundesstaat)
+amelia        # Eigenname (Amélia)
+amem          # religiöse Interjektion (amém)
+amigao        # umgangssprachliches Augmentativ, v. a. Brasilien
+amonia        # selten/fachsprachlich, BR-Schreibung (PT: amoníaco)
+amore         # Italianismus, umgangssprachlich
+ana           # anã: abwertend, selten (auch Eigenname Ana)
+anais         # Doppelgänger Plural von anal
+anal          # anatomisch/sexuell anstößig
+anao          # heikel (Kleinwuchs als Bezeichnung, abwertend)
+anemia        # Krankheit
+anexacao      # Politik/Krieg (Annexion)
+angelica      # v. a. Eigenname (Angélica)
+anglo         # selten
+angola        # Eigenname (Land)
+angra         # selten, v. a. Ortsname
+angus         # Fremdwort (Rinderrasse)
+anime         # Fremdwort (Japanisch)
+animes        # Fremdwort (Japanisch)
+anistia       # nur Brasilien (PT: amnistia)
+anoes         # heikel (Kleinwuchs als Bezeichnung, abwertend)
+anorexia      # Krankheit
+anormal       # als Beschimpfung abwertend
+anta          # selten (Tapir), BR „Dummkopf“
+anti          # Präfix, kein eigenständiges Wort
+anus          # anatomisch, anstößig
+apa           # selten
+apache        # Volksname
+apolo         # Eigenname (Apolo)
+apologia      # selten, v. a. juristisch
+apostila      # nur Brasilien
+app           # englisches Fremdwort
+aquando       # nur Portugal
+aquarela      # nur Brasilien (PT: aguarela)
+ara           # selten
+are           # selten (Flächeneinheit)
+argel         # Eigenname (Algier)/selten
+ariana        # heikel (Arier; BR auch Sternzeichen)
+ariano        # heikel (Arier)
+arma          # Waffe
+armada        # Militär (Kriegsflotte)
+armadas       # Militär (forças armadas)
+armado        # bewaffnet, Waffen
+armados       # bewaffnet (grupos armados)
+armando       # v. a. Eigenname (Armando)
+armas         # Waffen
+armenia       # Eigenname (Land)
+arrastao      # selten (BR auch Massenraub)
+arruda        # v. a. Eigenname, Pflanze selten
+arsenal       # Waffenlager
+artefato      # Konsonantenschreibung BR/PT (artefato/artefacto)
+artrite       # Krankheit
+asfixia       # Ersticken, Tod
+asma          # Krankheit
+asneira       # v. a. Portugal (dort auch Kraftausdruck)
+aspeto        # Konsonantenschreibung, nur Portugal (aspeto)
+assaltar      # Verbrechen (Überfall)
+assalto       # Verbrechen (Überfall)
+assaltos      # Verbrechen (Überfall)
+assedio       # Belästigung, unpassend
+assente       # selten, v. a. Portugal
+assuncao      # v. a. Eigenname/religiös (Assunção)
+ateismo       # Religion als Gruppenidentität
+atelie        # BR-Schreibung (PT: atelier)
+atentado      # Anschlag, Gewalt/Terror
+atentar       # Anschlag verüben
+ateu          # Religion als Gruppenidentität
+atirado       # BR „angeschossen“, selten
+atirador      # Schütze/Scharfschütze, Waffe
+augusto       # v. a. Eigenname
+autismo       # Diagnose, heikel
+autista       # Diagnose, heikel
+auto          # allein v. a. juristisch/Präfix
+autos         # allein v. a. juristisch (Akten)
+avelar        # selten/Eigenname
+axe           # nur Brasilien (axé, religiös/Musik)
+baba          # babá nur Brasilien (PT: ama), baba = Sabber
+babel         # Eigenname (Babel)
+bacon         # englisches Fremdwort
+bag           # englisches Fremdwort
+bagunca       # nur Brasilien, umgangssprachlich
+baiana        # Herkunftswort eines Bundesstaats (BR)
+baiano        # Herkunftswort eines Bundesstaats (BR)
+baita         # nur Brasilien
+bala          # Kugel, Waffe (BR auch Bonbon)
+balance       # selten
+balas         # Kugeln, Waffe
+bale          # BR-Schreibung (PT: ballet)
+baleado       # Gewalt (angeschossen)
+bali          # Eigenname/selten
+ballet        # Fremdwort (Französisch)
+bambi         # Eigenname, BR auch Schimpfwort
+bancar        # v. a. Brasilien, umgangssprachlich
+bandido       # Verbrechen
+bandidos      # Verbrechen
+barbara       # v. a. Eigenname (Bárbara)
+barbarie      # Gräueltaten
+barraco       # nur Brasilien
+barreiro      # selten/Eigenname
+barroso       # v. a. Eigenname
+baseado       # Tabu-Doppelgänger (BR: Joint)
+baseados      # Tabu-Doppelgänger (BR: Joints)
+basquete      # nur Brasilien (PT: basquetebol)
+basto         # selten
+bastos        # selten/Eigenname
+batalha       # Krieg (Schlacht)
+batalhao      # Militär
+batalhas      # Krieg (Schlacht)
+bates         # tu-Form (tu bates), in Brasilien unüblich
+batista       # Eigenname/Konfession
+bauru         # Eigenname, nur Brasilien
+bebada        # Trunkenheit (Alkohol)
+bebado        # Trunkenheit (Alkohol)
+beisebol      # BR-Schreibung (PT: basebol)
+belchior      # Eigenname/selten
+benjamim      # Eigenname
+bento         # v. a. Eigenname
+beta          # Buchstabenname
+betao         # nur Portugal (BR: concreto)
+beto          # Eigenname/PT-Slang
+bia           # Eigenname
+bibi          # selten/Kosename
+big           # englisches Fremdwort
+bilhao        # BR-Form (PT: bilião, anderer Zahlwert)
+bilhoes       # BR-Form (PT: biliões, anderer Zahlwert)
+bioma         # selten/fachsprachlich
+biopsia       # medizinisch (Krankheit)
+bipolar       # psychiatrische Diagnose, auch Beleidigung
+bit           # englisches Fremdwort, fachsprachlich
+bitcoin       # Fremdwort/Markenname
+bits          # englisches Fremdwort, fachsprachlich
+bla           # Onomatopoesie
+blindado      # gepanzert (Militär/Waffe), selten
+blitz         # Fremdwort (Deutsch)
+blues         # englisches Fremdwort
+boate         # nur Brasilien (PT: discoteca)
+bob           # Fremdwort/Eigenname
+boba          # v. a. Brasilien, abwertend
+bobo          # v. a. Brasilien, abwertend
+bolas         # allein stehend „Hoden“/Fluch (PT „bolas!“)
+boleto        # nur Brasilien (Zahlschein); Pilz selten
+boliche       # nur Brasilien (Bowling), selten
+bomba         # Waffe
+bombar        # selten, v. a. Portugal
+bombas        # Bomben, Waffe
+bonde         # nur Brasilien (PT: elétrico)
+bonitao       # Augmentativ, selten
+boom          # Fremdwort/Onomatopoesie
+boot          # englisches Fremdwort
+bora          # umgangssprachliche Kurzform (embora)
+bordel        # Sexualbezug (Bordell)
+boss          # englisches Fremdwort
+bossa         # selten
+bosta         # derb/Fäkalwort
+bot           # englisches Fremdwort
+botafogo      # Eigenname (Stadtteil/Verein)
+botar         # v. a. Brasilien (PT: pôr)
+boteco        # nur Brasilien
+boto          # nur Brasilien (Flussdelfin), selten
+bottom        # englisches Fremdwort
+box           # englisches Fremdwort
+braga         # Eigenname (Stadt)
+brandao       # v. a. Eigenname
+brasilia      # Eigenname (Stadt)
+brega         # nur Brasilien
+brejo         # v. a. Brasilien, selten
+bridge        # englisches Fremdwort
+brigada       # Militär
+brito         # v. a. Eigenname
+bro           # englisches Fremdwort, umgangssprachlich
+brocolis      # BR-Form (PT: brócolos)
+bronca        # nur Brasilien
+bruna         # Eigenname
+bruno         # Eigenname
+bucal         # selten/fachsprachlich
+buda          # Eigenname (Buddha)
+budismo       # Religion als Gruppenidentität
+budista       # Religion als Gruppenidentität
+budistas      # Religion als Gruppenidentität
+bug           # englisches Fremdwort
+bula          # v. a. Brasilien (Beipackzettel)/kirchlich
+bum           # Onomatopoesie
+bumbum        # Kindersprache (Po), v. a. Brasilien
+bundao        # Tabu-Doppelgänger (bunda)
+burgues       # politisch/abwertend
+burrice       # abwertend (Dummheit)
+bus           # Fremdwort
+caatinga      # nur Brasilien (Biom)
+caboclo       # nur Brasilien, ethnische Bezeichnung
+cabra         # PT auch Schimpfwort für Frauen
+cachaca       # Alkohol, v. a. Brasilien
+cache         # Fremdwort (cachê BR/cache IT), selten
+cacula        # nur Brasilien
+cadastro      # v. a. Brasilien (PT: registo; dort Strafregister)
+cadaver       # Tod (Leiche)
+cadela        # Schimpfwort (Hündin)
+cadete        # Militär
+caiado        # selten/Eigenname
+caipira       # nur Brasilien, abwertend
+cairo         # Eigenname (Kairo)
+caixao        # Sarg, Tod
+calca         # Singular v. a. Brasilien (PT: calças)
+calcinha      # Unterwäsche, v. a. Brasilien (PT: cuecas)
+calcoes       # v. a. Portugal, selten
+caldas        # v. a. Eigenname (Ortsname)
+calibre       # Waffe (Kaliber)
+calvario      # religiös (Kreuzigung), selten
+came          # selten/fachsprachlich
+camera        # BR-Form (PT: câmara)
+cameras       # BR-Form (PT: câmaras)
+camiseta      # v. a. Brasilien (PT: t-shirt)
+campinas      # v. a. Eigenname (Stadt Campinas)
+camping       # englisches Fremdwort
+canada        # Faltung liest als Eigenname (Canadá)
+canalha       # Schimpfwort
+candido       # v. a. Eigenname (Cândido)
+canhao        # Waffe (Kanone)
+canhoes       # Waffe (Kanonen)
+cantada       # nur Brasilien (Anmache)
+capao         # kastriertes Tier, nur Brasilien, selten
+capelao       # selten, kirchlich
+capim         # v. a. Brasilien, selten
+capita        # selten (capitã), Faltung wie „per capita“
+capixaba      # Herkunftswort eines Bundesstaats (BR)
+capo          # BR-Form (capô; PT: capot), selten
+caracter      # Konsonantenschreibung BR/PT (caráter/carácter)
+carajas       # Volksname, selten
+carater       # Konsonantenschreibung BR/PT (caráter/carácter)
+carcere       # Gefängnis, selten
+cardapio      # nur Brasilien (PT: ementa)
+caribe        # Eigenname (Karibik)
+carina        # Eigenname/selten
+carioca       # Herkunftswort einer Stadt (Rio)
+cariocas      # Herkunftswort einer Stadt (Rio)
+carrasco      # Henker (Gewalt), auch Eigenname
+cartel        # Kartell (Drogen/Verbrechen)
+cartorio      # v. a. Brasilien (Notariat), selten
+casino        # PT-Schreibung (BR: cassino), Glücksspiel
+cassacao      # selten/juristisch
+cassino       # BR-Schreibung (PT: casino), Glücksspiel
+castelao      # selten
+castro        # v. a. Eigenname
+catarina      # Eigenname
+catolica      # Religion als Gruppenidentität
+catolico      # Religion als Gruppenidentität
+cautelar      # selten/juristisch
+cave          # nur Portugal (BR: porão)
+caveira       # Totenschädel, Tod
+caxemira      # Eigenname (Kaschmir), selten
+ceara         # Eigenname (Bundesstaat Ceará)
+cearense      # Herkunftswort eines Bundesstaats (BR)
+cecilia       # Eigenname; Tierbedeutung selten
+cedula        # v. a. Brasilien (Geldschein), selten
+cel           # umgangssprachliche Kurzform, nur Brasilien
+cela          # v. a. Gefängniszelle
+celso         # Eigenname
+centavo       # v. a. Brasilien (PT: cêntimo)
+centavos      # v. a. Brasilien (PT: cêntimos)
+cerco         # Belagerung (Krieg/Polizei)
+cerro         # selten, regional
+certame       # selten
+cervical      # selten/medizinisch
+cesar         # Eigenname (César)
+cetico        # Konsonantenschreibung BR/PT (cético/céptico)
+chacina       # Massaker
+chale         # selten
+chance        # v. a. Brasilien (Gallizismus; PT: hipótese/oportunidade)
+chances       # v. a. Brasilien (Gallizismus)
+chapada       # v. a. Brasilien/Ortsname
+chapado       # BR-Slang „bekifft“
+charge        # nur Brasilien, Fremdwort
+charles       # Eigenname
+chassi        # BR-Form (PT: chassis), selten
+checagem      # nur Brasilien
+chef          # Fremdwort (Französisch)
+chefao        # Augmentativ, nur Brasilien
+chester       # Markenname, nur Brasilien
+chi           # Buchstabenname
+chica         # Fremdwort (Spanisch)
+chiclete      # nur Brasilien (PT: pastilha elástica)
+chico         # Eigenname, BR-Slang (Menstruation)
+chifre        # v. a. Brasilien, auch Untreue-Bild (botar chifre)
+chifres       # v. a. Brasilien, auch Untreue-Bild
+chile         # Eigenname (Land)
+chili         # Fremdwort
+china         # Eigenname (Land)
+chip          # englisches Fremdwort
+chips         # englisches Fremdwort
+chupa         # Tabu-Doppelgänger (vulgär „chupa!“)
+chupar        # Tabu-Doppelgänger (sexuelle Lesart)
+chute         # v. a. Brasilien (PT: remate/pontapé)
+cia           # Abkürzung (Cia./CIA)
+cigana        # ethnische Bezeichnung (cigano), heikel
+cimeira       # nur Portugal (BR: cúpula)
+cimo          # v. a. Portugal, selten
+cio           # Sexualbezug (Brunst)
+cirilico      # selten/fachsprachlich
+cis           # Fremdwort/selten
+cisco         # selten, meist Eigenname (Cisco)
+clemente      # selten/literarisch, meist Eigenname
+clitoris      # Sexualanatomie
+close         # Fremdwort, nur Brasilien
+cluster       # Fremdwort
+coach         # Fremdwort
+coalizao      # nur Brasilien (PT coligação), Politik
+coca          # Droge (Kokapflanze), Faltung coça (Prügel)
+cocaina       # Droge
+coceira       # eher Brasilien (PT comichão)
+coibir        # selten/gehoben
+colegial      # Varietät: BR-Schulwort
+coleta        # nur Brasilien (PT recolha)
+coletar       # nur Brasilien (PT recolher)
+colorado      # Eigenname/Hispanismus (nur BR)
+combate       # Kampf/Krieg
+combates      # Kampf/Krieg
+comboio       # nur Portugal (BR trem)
+comes         # tu-Form / Wendung comes e bebes, Varietät
+comicio       # Politik, selten
+comuna        # abwertende Nebenbedeutung (Kommunist)
+concelho      # nur Portugal (BR município)
+concilio      # selten/kirchlich
+concorde      # selten
+conjuge       # Amtssprache/selten
+conosco       # Konsonantenschreibung (PT connosco)
+consola       # Nomen nur Portugal (BR console)
+console       # nur Brasilien (PT consola)
+consolo       # Tabu-Doppelgänger (BR vulgär)
+contagio      # Krankheit, selten
+contanto      # nur in der Wendung contanto que
+contatar      # Konsonantenschreibung (PT contactar)
+contatos      # Konsonantenschreibung (PT contactos)
+control       # Fremdwort
+controle      # Nomen nur Brasilien (PT controlo)
+contusao      # Verletzung, selten
+converso      # selten
+conves        # selten/fachsprachlich
+coquetel      # eher Brasilien (PT cocktail)
+cora          # selten, Eigenname
+core          # Fremdwort
+coreia        # Eigenname (Coreia)
+coringa       # nur Brasilien (Joker)
+corja         # abwertend
+corona        # Fremdwort/selten
+coronel       # Militär
+corpus        # Fremdwort/fachsprachlich
+corrego       # eher Brasilien
+corrupto      # Kriminalität/abwertend
+cortex        # fachsprachlich
+cos           # selten
+cosmo         # selten, meist Eigenname
+cotton        # Fremdwort
+couto         # selten, meist Eigenname
+covarde       # Konsonantenschreibung (PT cobarde)
+covardia      # Konsonantenschreibung (PT cobardia)
+cover         # Fremdwort, nur Brasilien
+crash         # Fremdwort
+crente        # Religion als Gruppe (BR evangélico), abwertend
+crime         # Verbrechen
+crimes        # Verbrechen
+criminal      # Verbrechen
+crioulo       # rassistische Nebenbedeutung (BR)
+criquete      # selten/Fremdsport
+cristao       # Religion als Gruppe
+cristaos      # Religion als Gruppe
+cristo        # Eigenname/Religion
+cromo         # selten, PT-Slang
+crush         # Fremdwort/Umgangssprache
+csi           # Buchstabenname/Abkürzung
+cuba          # Eigenname (Kuba)
+cuca          # nur Brasilien
+cueca         # Varietät (PT cuecas), Unterwäsche
+cupido        # Eigenname/selten
+curativo      # eher Brasilien (PT penso)
+cure          # selten
+cursar        # selten, eher Brasilien
+cursinho      # nur Brasilien
+cusco         # regional/abwertend
+custodio      # selten/Eigenname
+czar          # selten/Fremdwort
+dana          # selten, Eigenname
+deboche       # nur Brasilien
+decepcao      # Konsonantenschreibung (PT deceção)
+decolar       # nur Brasilien (PT descolar)
+decurso       # selten/gehoben
+defice        # nur Portugal (BR déficit)
+deficit       # nur Brasilien (PT défice)
+defunto       # Tod
+del           # Fremdwort/Eigennamenpartikel
+delacao       # Kriminalität/Denunziation
+delator       # Kriminalität, selten
+delfim        # selten, Eigenname
+delgado       # meist Eigenname, als Adjektiv selten
+delito        # Verbrechen
+demencia      # Krankheit
+demo          # Fremdwort (Demo)/ugs. Teufel
+dengue        # Krankheit (Denguefieber)
+derivada      # fachsprachlich
+derrame       # Krankheit (BR Schlaganfall)
+design        # Fremdwort
+designer      # Fremdwort
+desviado      # selten/abwertend
+deteccao      # Konsonantenschreibung (PT deteção)
+detectar      # Konsonantenschreibung (PT detetar)
+detector      # Konsonantenschreibung (PT detetor)
+detencao      # Haft/Festnahme
+detido        # Festnahme
+detidos       # Festnahme
+dezenove      # nur Brasilien (PT dezanove)
+diabetes      # Krankheit
+diadema       # selten
+diarreia      # Krankheit/skatologisch
+diaspora      # selten
+diet          # Fremdwort
+digitar       # nur Brasilien (PT teclar/escrever)
+dino          # Eigenname/Kurzform
+dioxido       # fachsprachlich
+dispara       # Waffen (schießen)
+disparar      # Waffen (schießen)
+disparo       # Waffen (Schuss)
+disparos      # Waffen (Schüsse)
+disparou      # Waffen (schießen)
+disque        # nur Brasilien, selten
+ditador       # Politik/Gewalt
+ditadura      # Politik/Gewalt
+doenca        # Krankheit
+doencas       # Krankheit
+dojo          # Fremdwort
+donde         # Varietät: eher Portugal (BR literarisch)
+dong          # Fremdwort/Währung
+dora          # Eigenname
+dossie        # selten/Fremdwort
+douro         # Eigenname (Douro)
+drag          # Fremdwort
+drive         # Fremdwort
+driver        # Fremdwort
+droga         # Drogen
+drogado       # Drogen
+drogas        # Drogen
+drone         # Fremdwort
+drones        # Fremdwort
+dublado       # nur Brasilien (PT dobrado)
+ducha         # nur Brasilien (PT duche), selten
+duelo         # Kampf
+duma          # Varietät: Kontraktion eher PT
+durao         # nur Brasilien, umgangssprachlich
+ebola         # Krankheit
+edema         # medizinisch/selten
+eden          # Eigenname
+edu           # Eigenname
+efe           # Buchstabenname
+eldorado      # Eigenname
+ema           # selten (BR-Fauna), Eigenname
+embaixo       # nur Brasilien (PT em baixo)
+embargo       # selten/Politik
+embargos      # selten/Rechtssprache
+emerito       # selten
+emi           # selten
+enchente      # eher Brasilien (PT cheia)
+engajar       # eher Brasilien, selten
+engine        # Fremdwort
+enquete       # nur Brasilien (PT inquérito/sondagem)
+entanto       # nur in der Wendung no entanto
+enterro       # Tod (Begräbnis)
+enxerga       # eher Brasilien (enxergar), Nomen selten
+enxergar      # eher Brasilien (PT ver)
+enzima        # fachsprachlich
+eolica        # selten/fachsprachlich
+epidemia      # Krankheit (Epidemie)
+equipes       # nur Brasilien (PT equipas)
+erecao        # Sexualität
+erica         # selten (Pflanzenname/Eigenname)
+erotica       # Sexualität
+erotico       # Sexualität
+error         # Fremdwort/selten
+escopo        # eher Brasilien (PT âmbito)
+escrava       # Sklaverei
+escravo       # Sklaverei
+escravos      # Sklaverei
+escroto       # Anatomie/BR Schimpfwort
+espancar      # Gewalt
+esperma       # Sexualität
+espia         # selten
+espirita      # Religion als Gruppe
+esporte       # nur Brasilien (PT desporto)
+esportes      # nur Brasilien (PT desportos)
+estadual      # nur Brasilien (Bundesstaat)
+estancia      # selten, Eigenname
+estela        # selten
+esto          # selten
+estoque       # nur Brasilien (PT stock)
+estoria       # Varietät (Nebenform von história)
+estresse      # nur Brasilien (PT stress)
+estupida      # Beleidigung
+estupido      # Beleidigung
+estuprar      # Gewalt (sexuell)
+eta           # Interjektion/Buchstabenname
+etanol        # fachsprachlich, eher Brasilien
+eugenia       # Eugenik/Eigenname
+evacuar       # selten, skatologische Nebenbedeutung
+evo           # selten
+excitado      # sexuelle Nebenbedeutung
+expert        # Fremdwort
+expo          # Kurzwort/Fremdwort
+extorsao      # Verbrechen
+fabiana       # Eigenname
+fabiano       # Eigenname
+facada        # Gewalt
+faccao        # Kriminalität/Politik
+faccoes       # Kriminalität/Politik
+falecer       # Tod
+faleceu       # Tod
+falecido      # Tod
+falhado       # eher Portugal (BR fracassado), selten
+farda         # Militär (Uniform), selten
+faro          # Eigenname (Faro, PT)
+farofa        # nur Brasilien
+fascismo      # Politik
+fascista      # Politik, abwertend
+fate          # selten (= diabo)
+fausto        # Eigenname
+favela        # vor allem Brasilien, sozial heikel
+favelas       # vor allem Brasilien, sozial heikel
+faxina        # nur Brasilien (Putzen)
+ferreira      # Eigenname (Nachname)
+fetal         # medizinisch
+fetiche       # sexuelle Konnotation
+feto          # Fötus, heikel
+fezes         # skatologisch
+fia           # seltene Verbform
+fianca        # Kriminalität (Kaution)
+filhote       # vor allem Brasilien
+filhotes      # vor allem Brasilien
+film          # Fremdwort
+finale        # Fremdwort
+fit           # Fremdwort
+fitness       # Fremdwort
+flag          # Fremdwort
+flagra        # nur Brasilien, umgangssprachlich
+flamengo      # Eigenname (Clube) / selten
+flanco        # selten, militärisch
+flat          # Fremdwort
+flavia        # Eigenname
+flavio        # Eigenname
+flex          # Fremdwort, nur Brasilien
+focal         # fachsprachlich
+fomento       # selten/formal
+fone          # nur Brasilien (PT auscultador)
+foragido      # Kriminalität, vor allem Brasilien
+forcas        # Faltung liest anders: forças → FORCAS (forcas = Galgen)
+forense       # Kriminalistik, fachsprachlich
+foro          # fachsprachlich (Recht)
+fossa         # Senkgrube, unangenehm
+fox           # Fremdwort
+fraga         # selten
+frame         # Fremdwort
+fraude        # Kriminalität
+fraudes       # Kriminalität
+frei          # Titel vor Namen
+freio         # vor allem Brasilien (PT travão)
+freire        # Eigenname (Nachname)
+frescura      # Bedeutung BR/PT verschieden
+frevo         # nur Brasilien
+fuhrer        # Fremdwort, NS
+fumaca        # vor allem Brasilien (PT fumo)
+funchal       # Eigenname
+funebre       # Tod
+funeral       # Tod
+furtado       # Eigenname (Nachname), Diebstahl
+furto         # Kriminalität
+fusca         # nur Brasilien
+fuzil         # Waffe
+gabao         # selten / Eigenname (Gabão)
+gaga          # abwertend (Stottern/senil)
+gaita         # Tabu-Doppelgänger (PT vulgär)
+gala          # Tabu-Doppelgänger (BR vulgär)
+gale          # selten
+galera        # nur Brasilien (Umgangssprache)
+galileu       # Eigenname
+galpao        # nur Brasilien
+gamba         # Bedeutung BR/PT verschieden (gambá/gamba)
+gambia        # selten, Eigenname
+gamer         # Fremdwort
+gana          # selten / Eigenname (Gana)
+gang          # Fremdwort
+gangster      # Fremdwort, Kriminalität
+gangue        # Kriminalität
+gangues       # Kriminalität
+garrido       # selten / Eigenname
+gastao        # selten
+gate          # Fremdwort
+gates         # Fremdwort
+gatilho       # Waffe
+gaucha        # Demonym (Rio Grande do Sul)
+gaucho        # Demonym (Rio Grande do Sul)
+gavea         # selten / Eigenname
+gaza          # Eigenname (Gaza)
+gear          # selten
+gen           # seltene Nebenform
+genebra       # Eigenname (Genebra)
+generais      # Militär
+general       # Militär
+genitais      # sexuell/anatomisch
+genital       # sexuell/anatomisch
+genoma        # fachsprachlich
+germano       # Eigenname
+glamour       # Fremdwort
+glandula      # fachsprachlich (Anatomie)
+glitter       # Fremdwort
+gnu           # selten
+goiano        # Demonym (Goiás)
+gol           # nur Brasilien (PT golo)
+golo          # nur Portugal (BR gol)
+golos         # nur Portugal (BR gols)
+golpista      # abwertend, Kriminalität
+gols          # nur Brasilien (PT golos)
+gomes         # Eigenname (Nachname)
+gore          # Fremdwort, Gewalt
+gospel        # Fremdwort
+gostosa       # vor allem Brasilien, sexuelle Nebenbedeutung
+gostosas      # vor allem Brasilien, sexuelle Nebenbedeutung
+gostoso       # vor allem Brasilien, sexuelle Nebenbedeutung
+gourmet       # Fremdwort
+gra           # nur in Zusammensetzungen (grã-)
+graal         # selten
+grado         # selten
+granada       # Waffe
+granadas      # Waffe
+gregorio      # Eigenname, PT-Slang abwertend
+grid          # Fremdwort
+gringo        # vor allem Brasilien, abwertend
+guarana       # vor allem Brasilien
+guarani       # Volk/Sprache, Eigenname
+guerra        # Krieg
+guerras       # Krieg
+gueto         # heikel
+guine         # Eigenname (Guiné)
+hades         # Eigenname
+hall          # Fremdwort
+hamburgo      # Eigenname (Hamburgo)
+hammer        # Fremdwort
+han           # Eigenname/Volk
+handebol      # nur Brasilien (PT andebol)
+hans          # Eigenname
+hasta         # selten
+havana        # Eigenname (Havana)
+helena        # Eigenname
+helio         # vor allem Eigenname
+hepatica      # fachsprachlich
+hepatite      # Krankheit
+hercules      # Eigenname
+heresia       # Religion
+hermes        # Eigenname
+heroina       # Droge
+herpes        # Krankheit
+hetero        # Sexualität
+hilario       # vor allem Brasilien (PT hilariante), Eigenname
+hindi         # Sprache, selten
+hindu         # Religion
+hippie        # Fremdwort
+hit           # Fremdwort
+hits          # Fremdwort
+hobbit        # Fremdwort
+holanda       # Eigenname (Holanda)
+holding       # Fremdwort
+home          # archaisch / Fremdwort
+honor         # selten
+hospicio      # abwertend (Irrenanstalt)
+host          # Fremdwort
+house         # Fremdwort
+houveram      # seltene Form
+hub           # Fremdwort
+humidade      # nur Portugal (BR umidade)
+humorado      # nur in bem-/mal-humorado
+ibero         # selten
+ibope         # nur Brasilien
+ide           # vós-Imperativ / selten
+idem          # Latein, selten
+idiota        # Beleidigung
+idiotas       # Beleidigung
+idiotice      # abwertend
+ima           # nur Brasilien (PT íman)
+imbecil       # Beleidigung
+incesto       # sexuell
+inciso        # fachsprachlich
+incursao      # militärisch
+india         # vor allem Eigenname (Índia)
+indie         # Fremdwort
+indio         # heikle Bezeichnung (indígena)
+indios        # heikle Bezeichnung (indígena)
+infarto       # Krankheit (PT enfarte)
+infeccao      # Konsonantenschreibung verschieden (PT infeção)
+infra         # Latein, selten
+int           # Abkürzung
+invalido      # heikel (auch: Behinderter)
+isabel        # Eigenname
+isla          # Religion, nur Brasilien (PT islão)
+islamica      # Religion
+islamico      # Religion
+islao         # Religion, nur Portugal (BR islã)
+ita           # selten
+iva           # Abkürzung (IVA) / selten
+janta         # umgangssprachlich
+januario      # Eigenname
+japao         # Eigenname (Japão)
+jaqueta       # vor allem Brasilien (PT casaco/blusão)
+jaragua       # selten / Eigenname
+java          # Eigenname
+jazz          # Fremdwort
+jeans         # Fremdwort
+jeitinho      # nur Brasilien
+jesus         # Eigenname, Religion
+job           # Fremdwort / Eigenname
+jota          # Buchstabenname
+juazeiro      # Eigenname / selten
+judaica       # Religion
+judaico       # Religion
+judaismo      # Religion
+judas         # Eigenname, abwertend
+judeu         # Religion/Volk, heikel
+judeus        # Religion/Volk, heikel
+judia         # Religion/Volk, heikel
+julia         # Eigenname
+juliana       # Eigenname
+juliano       # Eigenname
+julio         # Eigenname
+ladrao        # Kriminalität
+ladroes       # Kriminalität
+laguna        # selten / Eigenname
+lai           # selten
+lambda        # Buchstabenname
+lanco         # selten
+lao           # selten
+lapa          # Eigenname / selten
+lapide        # Tod (Grabstein)
+laptop        # Fremdwort (PT portátil)
+las           # nur enklitisches Pronomen
+latex         # selten / Fremdwort
+lato          # selten
+laudo         # vor allem Brasilien, fachsprachlich
+laura         # Eigenname
+laurel        # selten
+lauro         # Eigenname
+lazaro        # Eigenname / selten
+legista       # Tod (Gerichtsmedizin), fachsprachlich
+lego          # Markenname
+lesbica       # Sexualität
+lesbicas      # Sexualität
+letal         # Tod
+leucemia      # Krankheit
+lgbt          # Abkürzung
+libre         # selten
+lide          # selten
+light         # Fremdwort
+limeira       # Eigenname / selten
+liminar       # fachsprachlich (Recht)
+lingerie      # Fremdwort
+linguica      # anstößige Nebenbedeutung
+lis           # selten
+litigio       # fachsprachlich
+liturgia      # Religion, selten
+live          # Fremdwort
+lives         # Fremdwort
+lixeira       # Bedeutung BR/PT verschieden
+lobato        # Eigenname
+loco          # selten
+login         # Fremdwort
+logos         # selten
+loop          # Fremdwort
+los           # nur enklitisches Pronomen
+loteria       # nur Brasilien (PT lotaria)
+loureiro      # Eigenname / selten
+louvado       # selten, religiös
+luca          # selten
+lucia         # Eigenname
+lucifer       # Eigenname, Religion
+lucio         # Eigenname
+luis          # Eigenname
+lula          # Eigenname (Politik, BR)
+lulu          # selten
+lume          # vor allem Portugal
+lusa          # Demonym / Eigenname
+luso          # Demonym / Eigenname
+luto          # Trauer/Tod
+lux           # selten / Fremdwort
+luxuria       # sexuell
+macacao       # vor allem Brasilien (PT fato-macaco)
+macas         # Faltung liest anders: maçãs → MACAS (Tragen)
+macau         # Eigenname (Macau)
+machismo      # heikel (Politik/Gesellschaft)
+machista      # abwertend, heikel
+machuca       # vor allem Brasilien
+maconha       # Droge
+macro         # selten / Fremdwort
+madalena      # Eigenname
+mafia         # Kriminalität
+mafioso       # Kriminalität
+magazine      # Bedeutung BR/PT verschieden
+magno         # Eigenname / selten
+maia          # Eigenname
+maias         # Volk / Eigenname
+major         # Militär
+malaria       # Krankheit
+malhacao      # nur Brasilien
+mamao         # nur Brasilien (PT papaia)
+mamar         # anstößige Nebenbedeutung
+mana          # umgangssprachlich (Schwester) / selten
+mandada       # selten
+mane          # nur Brasilien, umgangssprachlich
+maneiro       # nur Brasilien, umgangssprachlich
+mano          # umgangssprachlich
+manos         # umgangssprachlich
+mara          # selten / Eigenname
+maraba        # Eigenname, abwertend
+maracana      # Eigenname
+maranhao      # Eigenname
+marcela       # Eigenname
+marcia        # Eigenname
+marcio        # Eigenname
+marechal      # Militär
+marginal      # Bedeutung BR/PT verschieden (BR: Krimineller)
+mari          # selten / Eigenname
+maria         # Eigenname
+mariana       # Eigenname
+mariano       # Eigenname, religiös
+marina        # vor allem Eigenname
+marino        # selten / Eigenname
+mariposa      # selten
+marrom        # nur Brasilien (PT castanho)
+marta         # Eigenname
+martir        # Religion/Tod
+martires      # Religion/Tod
+martirio      # Religion/Tod
+marxismo      # Politik
+marxista      # Politik
+massacre      # Gewalt
+master        # Fremdwort
+mata          # Gewalt (Verbform von matar)
+matado        # Gewalt
+matador       # Gewalt
+matam         # Gewalt
+matanca       # Gewalt
+matando       # Gewalt
+matar         # Gewalt
+mataram       # Gewalt
+matas         # Gewalt
+mate          # Gewalt (Verbform), sonst mehrdeutig
+matei         # Gewalt
+matou         # Gewalt
+matrix        # Fremdwort
+mauro         # Eigenname
+meca          # Eigenname (Meca)
+medical       # selten / Fremdwort
+medium        # selten, esoterisch
+meeting       # Fremdwort
+mega          # umgangssprachlich, nur Brasilien
+mei           # selten
+melo          # seltene Verbform
+messias       # religiös
+mestico       # Rassenbegriff
+mete          # meter: vulgäre Nebenbedeutung (BR)
+metendo       # meter: vulgäre Nebenbedeutung (BR)
+meter         # meter: vulgäre Nebenbedeutung (BR), BR sagt colocar/botar
+meteu         # meter: vulgäre Nebenbedeutung (BR)
+metida        # abwertend/vulgär, selten
+metido        # abwertend, nur Brasilien („eingebildet“)
+mico          # nur Brasilien, selten
+micro         # Kürzel/Präfix
+midia         # nur Brasilien (PT media)
+midias        # nur Brasilien (PT media)
+milicia       # Gewalt/Militär (BR Milizen)
+milicias      # Gewalt/Militär
+min           # Abkürzung
+mir           # selten, Eigenname
+mirante       # eher Brasilien (PT miradouro)
+mirim         # nur Brasilien
+misseis       # Waffe
+missil        # Waffe
+mister        # Fremdwort/veraltet („é mister“)
+mix           # Fremdwort
+mobile        # Fremdwort
+moca          # Faltung MOCA (PT Slang „Rausch“), moça eher BR
+mocas         # Faltung MOCAS (PT Slang), moça eher BR
+mocinha       # eher Brasilien
+mocinho       # nur Brasilien
+mod           # Fremdwort
+modular       # selten/fachsprachlich
+moises        # Eigenname
+moleque       # nur Brasilien, abwertend
+moleza        # eher Brasilien, umgangssprachlich
+molina        # Eigenname/selten
+momo          # Eigenname (Rei Momo)
+mona          # abwertend (BR Slang), PT „Puppe“
+monde         # selten
+mongol        # abwertend (Beleidigung)
+monica        # Eigenname
+mono          # selten (Affe = macaco)
+monteiro      # Eigenname (Nachname)
+mor           # veraltet/nur in Komposita
+morra         # Tod
+morre         # Tod
+morrem        # Tod
+morrendo      # Tod
+morrer        # Tod
+morreram      # Tod
+morreu        # Tod
+morri         # Tod
+morrido       # Tod
+morro         # liest auch „ich sterbe“; Hügel eher BR
+morros        # eher Brasilien, Eigenname
+morta         # Tod
+mortais       # Tod
+mortal        # Tod
+mortas        # Tod
+morte         # Tod
+mortes        # Tod
+morto         # Tod
+mortos        # Tod
+mos           # veraltetes Pronomen
+moscou        # Eigenname (BR Moskau), Verb selten
+motel         # sexuelle Konnotation (BR Stundenhotel)
+moura         # Eigenname/abwertend („Maurin“)
+mourao        # Eigenname, selten
+mui           # veraltet
+municao       # Waffe (Munition)
+municoes      # Waffe (Munition)
+murro         # Gewalt (Faustschlag)
+mutirao       # nur Brasilien
+nauseas       # Krankheit (Übelkeit)
+navalha       # Waffe (Rasiermesser), selten
+navarro       # Herkunftsbezeichnung/Eigenname
+nazi          # Politik
+nazismo       # Politik
+nazista       # Politik, BR (PT nazi)
+nazistas      # Politik, BR (PT nazis)
+nega          # BR Slang mit Hautfarbe-Bezug
+nene          # eher Brasilien (PT bebé)
+nenem         # nur Brasilien
+nerd          # Fremdwort
+nestor        # Eigenname
+net           # Fremdwort, umgangssprachlich
+nico          # selten/Slang
+nina          # ninar eher BR, Eigenname Nina
+ninja         # Fremdwort
+nirvana       # Fremdwort, religiös
+nobel         # Eigenname
+nocaute       # nur Brasilien, Gewalt (Boxen)
+novinha       # BR Slang mit sexueller Konnotation
+nua           # Nacktheit
+nude          # Fremdwort, Nacktheit
+nudez         # Nacktheit
+nunes         # Eigenname
+oba           # Interjektion, nur Brasilien
+obito         # Tod
+offline       # Fremdwort
+oil           # Fremdwort
+olga          # Eigenname
+omega         # Buchstabenname
+opa           # Interjektion, eher Brasilien
+optica        # Konsonantenpaar óptica/ótica
+optico        # Konsonantenpaar óptico/ótico, selten
+oral          # BR sexuelle Nebenbedeutung
+orgasmo       # sexuell
+orgia         # sexuell
+orlando       # Eigenname
+oscar         # Eigenname
+otica         # Konsonantenpaar óptica/ótica
+outdoor       # Fremdwort
+over          # Fremdwort
+overdose      # Drogen, Fremdwort
+paco          # selten (paço veraltet)
+paiva         # Eigenname, Slang
+palmares      # Eigenname, selten
+panama        # Eigenname
+pancada       # Gewalt (Schlag)
+pandemia      # Krankheit
+pantanal      # Eigenname (BR)
+papao         # selten
+paper         # Fremdwort
+paraense      # Herkunftsbezeichnung
+parana        # Eigenname
+pascal        # Eigenname/Maßeinheit
+pascoal       # Eigenname, selten
+patetico      # abwertend
+patricia      # Eigenname
+patricio      # Eigenname
+patroa        # nur Brasilien, umgangssprachlich
+paul          # Eigenname, selten
+paulino       # Eigenname
+paulista      # Herkunftsbezeichnung
+pedagio       # nur Brasilien (PT portagem)
+pedofilo      # sexuelles Verbrechen
+pega          # Tabu-Doppelgänger (PT vulgär „Flittchen“)
+pegas         # Tabu-Doppelgänger (PT), selten
+peitos        # Plural meist „Brüste“
+pelada        # Nacktheit (BR „nackt“)
+pelado        # Nacktheit (BR „nackt“)
+pelotao       # Militär
+pelucia       # eher Brasilien (PT peluche)
+pen           # Fremdwort
+penais        # Strafrecht/Kriminalität
+penal         # Strafrecht/Kriminalität
+penetra       # selten, sexuelle Nebenbedeutung
+penetrar      # sexuelle Nebenbedeutung
+penha         # Eigenname
+penis         # sexuell
+pero          # selten, Eigenname
+perpetua      # Eigenname/selten (prisão perpétua)
+personal      # Fremdwort
+pertenca      # selten, eher PT
+peru          # Tabu-Doppelgänger (BR vulgär), Eigenname Peru
+perversa      # sexuelle Konnotation
+perverso      # sexuelle Konnotation
+peste         # Krankheit
+petista       # Politik, nur Brasilien
+pico          # bewusste Zusatzkuratel: PICO liest in Portugal auch als piço (vulgär); wie pica nur Extrawort. Der UI-Name „Pico“ ist davon unberührt
+picos         # dito
+pilates       # Fremdwort/Eigenname
+pinga         # nur Brasilien (Schnaps)
+pique         # selten
+pira          # Scheiterhaufen, selten, BR Slang
+pirar         # Slang, selten
+pistola       # Waffe
+pixel         # Fremdwort, selten
+placar        # eher Brasilien (PT marcador)
+placenta      # selten/fachsprachlich
+planeja       # nur Brasilien (PT planear)
+planejar      # nur Brasilien (PT planear)
+planilha      # nur Brasilien (PT folha de cálculo)
+plantao       # eher Brasilien
+plugin        # Fremdwort
+plus          # Fremdwort
+poa           # Eigenname, selten
+podcast       # Fremdwort
+pole          # Fremdwort
+policial      # eher Brasilien (PT polícia/agente)
+polones       # nur Brasilien (PT polaco)
+polvora       # Waffe (Schießpulver)
+pombal        # Eigenname
+pop           # Fremdwort
+pope          # selten
+porca         # abwertend (Schimpfwort „Sau“)
+porcaria      # abwertend/umgangssprachlich
+pormenor      # eher Portugal (BR detalhe)
+porno         # sexuell
+porrada       # vulgär/Gewalt (von porra)
+portela       # Eigenname
+portland      # Eigenname
+postagem      # nur Brasilien
+postando      # eher Brasilien (PT publicar)
+postar        # eher Brasilien (PT publicar)
+postaram      # eher Brasilien, selten
+postou        # eher Brasilien (PT publicou)
+potiguar      # Herkunftsbezeichnung, nur Brasilien
+povoa         # Eigenname
+praxe         # eher Portugal
+prefeita      # nur Brasilien (PT presidente da câmara)
+prefeito      # nur Brasilien (PT presidente da câmara)
+presidio      # Gefängnis (Kriminalität)
+presto        # selten
+prime         # Fremdwort
+primer        # Fremdwort
+prior         # selten
+prisao        # Gefängnis (Kriminalität)
+prisoes       # Gefängnis (Kriminalität)
+projetil      # Waffe (Geschoss), selten
+promo         # umgangssprachlich, Kürzel
+propina       # Bedeutung geteilt: BR Bestechung, PT Studiengebühr
+prostata      # medizinisch, selten
+provem        # selten (provém/provêm)
+psi           # Buchstabenname
+psicose       # Krankheit
+puzzle        # eher Portugal (BR quebra-cabeça), Fremdwort
+quadril       # eher Brasilien (PT anca)
+quartel       # Militär (Kaserne)
+quatorze      # Schreibpaar quatorze/catorze (PT catorze)
+queer         # Fremdwort, sexuelle Identität
+quest         # Fremdwort
+qui           # Buchstabenname
+quixote       # Eigenname
+quiz          # Fremdwort
+quorum        # Latinismus, selten
+quota         # Schreibpaar quota/cota (BR cota)
+racha         # Tabu-Doppelgänger (PT vulgär), selten
+raciais       # heikles Thema (Rasse)
+racial        # heikles Thema (Rasse)
+racismo       # heikles Thema (Rassismus)
+racista       # heikles Thema/Beleidigung
+racistas      # heikles Thema/Beleidigung
+rali          # Fremdwort, selten
+ramal         # eher Brasilien (Telefonnebenstelle), selten
+ramalho       # Eigenname
+rand          # Währung, selten
+rap           # Fremdwort
+raposo        # Eigenname, selten
+rapper        # Fremdwort
+raptado       # Verbrechen (Entführung)
+rapto         # Verbrechen (Entführung)
+rata          # Tabu-Doppelgänger (PT vulgär), selten
+rating        # Fremdwort
+rebeca        # Eigenname, selten
+recepcao      # Konsonantenpaar recepção/receção
+receptor      # Konsonantenpaar receptor/recetor
+reclusao      # Haft (Kriminalität)
+record        # Fremdwort
+recruta       # Militär (Rekrut), selten
+refem         # Gewalt/Verbrechen (Geisel)
+refens        # Gewalt/Verbrechen (Geiseln)
+reflecte      # alte PT-Schreibung (heute reflete), Konsonantenpaar
+reggae        # Fremdwort
+regia         # selten
+registar      # nur Portugal (BR registrar)
+registra      # nur Brasilien (PT regista)
+registro      # nur Brasilien (PT registo)
+rego          # Tabu-Doppelgänger (rego = Pofalte, umgangssprachlich)
+reich         # Fremdwort
+relva         # nur Portugal (BR grama)
+remember      # Fremdwort, sexueller Slang
+remix         # Fremdwort (Englisch)
+rendicao      # Krieg (Kapitulation)
+reprise       # nur Brasilien (TV-Wiederholung)
+resenha       # vor allem Brasilien (PT recensão), BR-Slang
+resort        # Fremdwort (Englisch)
+retro         # Modewort, selten
+revolver      # Waffe
+ribeira       # vor allem Portugal
+ribeirao      # nur Brasilien
+rifle         # Waffe
+roca          # nur Brasilien; Faltung ROCA = Spinnrocken
+rocinha       # Eigenname (Favela), sonst selten
+rodada        # vor allem Brasilien (Spielrunde), BR abwertende Nebenbedeutung
+rodadas       # vor allem Brasilien (Spielrunde), BR abwertende Nebenbedeutung
+rodovia       # nur Brasilien (PT autoestrada)
+rodovias      # nur Brasilien (PT autoestradas)
+rodrigo       # Eigenname (Vorname)
+role          # Faltung uneindeutig (role/rolê), rolê nur BR-Slang
+rom           # Volksgruppenbezeichnung
+root          # Fremdwort (Englisch)
+roque         # Eigenname, Schachbegriff selten
+rose          # Fremdwort/uneindeutig (rosé)
+roteador      # nur Brasilien (PT router)
+rouba         # Kriminalität (Diebstahl)
+roubada       # Kriminalität (Diebstahl), BR-Slang
+roubado       # Kriminalität (Diebstahl)
+roubam        # Kriminalität (Diebstahl)
+roubando      # Kriminalität (Diebstahl)
+roubar        # Kriminalität (Diebstahl)
+roubaram      # Kriminalität (Diebstahl)
+roubo         # Kriminalität (Diebstahl)
+roubos        # Kriminalität (Diebstahl)
+roubou        # Kriminalität (Diebstahl)
+round         # Fremdwort (Englisch)
+ruanda        # Eigenname (Land)
+rui           # Eigenname (Rui), Verb ruir selten
+sabre         # Waffe
+saci          # nur Brasilien (Folklorefigur)
+saguao        # vor allem Brasilien (PT átrio)
+salvador      # meist Eigenname (Stadt/Land), sonst religiös
+same          # Volksgruppenbezeichnung
+samurai       # Fremdwort (Japanisch), Krieger
+santiago      # Eigenname
+santista      # Herkunftsbezeichnung (Santos), nur Brasilien
+sara          # meist Eigenname (Sara)
+saraiva       # meist Eigenname (Nachname), Lesart „Hagel“ selten
+saramago      # Eigenname (Schriftsteller)
+sargento      # Militär
+sarro         # nur Brasilien (Slang)
+satanas       # religiös/düster, Eigenname
+saudita       # fast nur im Eigennamen (Arábia Saudita)
+save          # Fremdwort (Englisch)
+script        # Fremdwort (Englisch)
+secao         # Konsonantenschreibung (BR seção, PT secção)
+secoes        # Konsonantenschreibung (BR seções, PT secções)
+sector        # nur Portugal (Schreibung, BR setor)
+seio          # Körper, sexuell konnotiert
+seios         # Körper, sexuell konnotiert
+seita         # religiöse Gruppe, negativ besetzt
+semen         # sexuell
+sena          # nur Brasilien (Lotterie), sonst Eigenname
+senhorio      # vor allem Portugal (Vermieter), selten
+sensei        # Fremdwort (Japanisch)
+sensual       # sexuell
+seriado       # vor allem Brasilien (PT série)
+serial        # vor allem Brasilien, Fremdwort-Anklang (serial killer)
+sertao        # nur Brasilien (Landschaft)
+server        # Fremdwort (Englisch)
+set           # Fremdwort (Englisch)
+sexo          # sexuell
+sexos         # sexuell
+sexuais       # sexuell
+sexual        # sexuell
+shift         # Fremdwort (Englisch)
+shopping      # Fremdwort (Englisch)
+shot          # Fremdwort (Englisch), Alkohol
+sic           # Latein, Zitiervermerk
+sida          # nur Portugal (BR aids), schwere Krankheit
+sifilis       # Krankheit
+silva         # meist Eigenname (Nachname)
+silveira      # Eigenname
+sinagoga      # Religion als Gruppenidentität
+sindrome      # Krankheit
+single        # Fremdwort (Englisch)
+sinuca        # nur Brasilien (Billard)
+sir           # Fremdwort (Englisch)
+siri          # nur Brasilien (Krabbe)
+siria         # meist Eigenname (Land)
+slide         # Fremdwort (Englisch)
+slogan        # Fremdwort (Englisch)
+sniper        # Fremdwort, Waffe
+soares        # Eigenname (Nachname)
+sobrado       # vor allem Brasilien (zweistöckiges Haus), selten
+sobral        # Eigenname
+soco          # Gewalt (Faustschlag)
+soft          # Fremdwort (Englisch)
+soltura       # Haftentlassung, selten
+sorvete       # nur Brasilien (PT gelado)
+soul          # Fremdwort (Englisch)
+sousa         # Eigenname (Nachname)
+souto         # Eigenname, sonst selten
+souza         # Eigenname (Nachname)
+spa           # Fremdwort (Englisch)
+spin          # Fremdwort (Englisch)
+spoiler       # Fremdwort (Englisch)
+standard      # Fremdwort (Englisch)
+status        # Fremdwort (Latein/Englisch)
+stop          # Fremdwort (Englisch)
+stories       # Fremdwort (Englisch)
+stress        # Fremdwort (BR estresse)
+string        # Fremdwort (Englisch)
+strip         # Fremdwort, sexuell
+sub           # Präfix/Kürzel
+suborno       # Kriminalität (Bestechung)
+suco          # nur Brasilien (PT sumo)
+suica         # meist Eigenname (Schweiz)
+suicida       # Suizid, Tod
+suicidar      # Suizid, Tod
+suicidio      # Suizid, Tod
+sujeira       # vor allem Brasilien (PT sujidade)
+sumo          # Lesarten zerfallen: PT Saft, BR Sumô-Ringen
+super         # umgangssprachliches Kurzwort
+surf          # Fremdwort (Englisch)
+surfe         # nur Brasilien (Schreibung, PT surf)
+surra         # Gewalt (Prügel)
+sushi         # Fremdwort (Japanisch)
+sutia         # vor allem Brasilien (PT soutien), Unterwäsche
+sutil         # nur Brasilien (Schreibung, PT subtil)
+tabaco        # anstößig in BR, Tabak
+tablet        # Fremdwort (Englisch)
+tag           # Fremdwort (Englisch)
+tags          # Fremdwort (Englisch)
+tai           # Volks-/Sprachbezeichnung, selten
+taliba        # Eigenname, Gewalt/Politik
+tapa          # Gewalt (Ohrfeige)
+tapajos       # Eigenname
+tape          # selten/Fachwort
+tara          # sexuelle Nebenbedeutung (BR Fetisch)
+tarado        # sexuell/Beleidigung
+taro          # selten, Faltung uneindeutig (tarô)
+tarso         # Fachwort, Eigenname
+tato          # Konsonantenschreibung (BR tato, PT tacto)
+tava          # umgangssprachliche Kurzform (estava)
+teaser        # Fremdwort (Englisch)
+tejo          # Eigenname (Fluss)
+tenente       # Militär
+tequila       # Fremdwort, Spirituose
+teresa        # Eigenname (Vorname)
+terreiro      # vor allem Brasilien (Kultplatz), religiös
+terreo        # nur Brasilien (PT rés-do-chão)
+tesla         # Fachwort, Eigenname
+tetra         # Kurzwort, selten
+thriller      # Fremdwort (Englisch)
+tibetano      # selten
+tico          # selten, anstößig in BR
+tijuca        # Eigenname
+timao         # meist Eigenname (Fußballclub), sonst selten
+times         # nur Brasilien (PT equipas)
+tiro          # Waffe/Gewalt (Schuss)
+tiros         # Waffe/Gewalt (Schüsse)
+tiroteio      # Waffe/Gewalt (Schießerei)
+tita          # selten, Eigenname
+top           # Fremdwort (Englisch)
+topa          # selten, BR-umgangssprachlich
+tora          # selten
+torcedor      # nur Brasilien (PT adepto)
+torcida       # vor allem Brasilien (Fans; PT claque)
+toro          # selten, Eigenname
+torpedo       # Waffe
+torque        # Fachwort
+tortura       # Gewalt (Folter)
+torturar      # Gewalt (Folter)
+torturas      # Gewalt (Folter)
+toto          # selten, abwertende Nebenbedeutung
+touch         # Fremdwort (Englisch)
+tour          # Fremdwort (Französisch/Englisch)
+trafico       # Kriminalität (Drogenhandel)
+trailer       # Fremdwort (Englisch)
+trancada      # anstößig markiert, selten
+trans         # Kurzform, heikles Identitätsthema
+transfer      # Fremdwort (Englisch)
+trap          # Fremdwort, anstößig markiert
+trator        # Konsonantenschreibung (BR trator, PT tractor)
+travesti      # anstößig, Sexualbezug
+trens         # nur Brasilien (PT comboios)
+tri           # nur Brasilien (Slang), Präfix
+trial         # Fremdwort (Englisch)
+trilha        # vor allem Brasilien (trilha sonora; PT trilho)
+trilhas       # vor allem Brasilien (PT trilhos)
+trindade      # religiös (Dreifaltigkeit), meist Eigenname
+tropa         # Militär
+tropas        # Militär
+trouxa        # vor allem Brasilien (Slang „Trottel“), selten
+tsunami       # Fremdwort (Japanisch), Katastrophe
+tuite         # Neologismus nach Marke (Twitter)
+tulio         # Fachwort, Eigenname
+tumba         # Grab, Tod
+tumor         # schwere Krankheit
+tumulo        # Grab, Tod
+tupi          # Volksgruppenbezeichnung
+turne         # vor allem Brasilien (PT digressão)
+uau           # Interjektion
+ubuntu        # Fremdwort, Eigenname
+ufa           # Interjektion
+uisque        # vor allem Brasilien (PT whisky)
+umbanda       # Religion, nur Brasilien
+umidade       # Schreibung nur Brasilien (PT humidade)
+umido         # Schreibung nur Brasilien (PT húmido)
+uno           # Markenname (Kartenspiel)
+upa           # Interjektion, selten
+update        # Fremdwort (Englisch)
+upgrade       # Fremdwort (Englisch)
+upload        # Fremdwort (Englisch)
+urina         # Körperausscheidung
+urubu         # vor allem Brasilien, abwertende Nebenbedeutung
+usina         # nur Brasilien (Kraftwerk; PT central)
+usuario       # nur Brasilien (PT utilizador)
+usuarios      # nur Brasilien (PT utilizadores)
+vadia         # Schimpfwort („Schlampe“)
+vagina        # Anatomie, sexuell
+vaginal       # sexuell/anatomisch
+val           # Kurzform, selten
+valencia      # meist Eigenname (Valencia), sonst Fachwort
+van           # nur Brasilien (PT carrinha), Fremdwort
+vanessa       # Eigenname (Vorname)
+varal         # nur Brasilien (PT estendal)
+varejo        # nur Brasilien (PT retalho)
+varela        # Eigenname, sonst selten
+varzea        # vor allem Brasilien, oft Eigenname
+vasco         # Eigenname (Vorname/Club)
+vascular      # fachsprachlich (Medizin)
+vaticano      # Eigenname, Religion
+veiga         # Eigenname, sonst nur Portugal
+velorio       # Tod (Totenwache)
+veredito      # Konsonantenschreibung (BR veredito, PT veredicto)
+veronica      # Eigenname, religiös
+versus        # Latein/Anglizismus
+viana         # Eigenname (Stadt)
+vibe          # Fremdwort (Englisch), umgangssprachlich
+vibrador      # sexuell
+vice          # Kurzform/Präfix
+vicente       # Eigenname (Vorname)
+viciada       # Sucht/Drogenkontext
+viciado       # Sucht/Drogenkontext
+viciados      # Sucht/Drogenkontext
+viciante      # Sucht/Drogenkontext
+vicosa        # Eigenname, sonst selten
+vide          # Latein (Verweisformel), Lesart „Rebe“ selten
+vieira        # meist Eigenname (Nachname)
+vigario       # kirchliches Amt, selten
+vilarejo      # vor allem Brasilien (PT aldeia/lugarejo)
+violacao      # Gewalt (PT auch Vergewaltigung)
+violado       # Gewalt (Vergewaltigung), selten
+violao        # nur Brasilien (PT guitarra clássica)
+violar        # Gewalt (auch vergewaltigen)
+violenta      # Gewalt
+violento      # Gewalt
+virada        # vor allem Brasilien (PT viragem)
+virgem        # Sexualbezug bzw. religiös
+virgens       # Sexualbezug bzw. religiös
+virilha       # Körper, intim
+vitima        # Gewalt/Unglück
+vitimas       # Gewalt/Unglück
+vitrine       # nur Brasilien (PT montra)
+voadora       # Kampftritt, selten
+vomitar       # unappetitlich (Körperausscheidung)
+vomito        # unappetitlich (Körperausscheidung), selten
+vossa         # vós-Possessiv
+vulgo         # selten/gehoben
+xerife        # Fremdwort (Englisch)
+xerox         # Markenname
+xicara        # nur Brasilien (PT chávena)
+xingar        # vor allem Brasilien, Beschimpfung
+zaga          # nur Brasilien (Fußball), selten
+zoom          # Fremdwort (Englisch)
+zulu          # Volksgruppenbezeichnung
+zumbi         # vor allem Brasilien (PT zombie)
+zumbis        # vor allem Brasilien (PT zombies)
+
+# Codex-Prüfung 2026-11-20 (Durchgang 2): Schusswaffe wie im Spanischen disparar/disparo; recém nur gebunden
+atirar        # „schießen“ (BR geläufig), wie es disparar; atirador, tiro schon ausgeschlossen
+atira
+atirando
+atiraram
+atirou
+recem         # frei vor allem südbrasilianisch, sonst nur in recém-nascido (vorsorglich, Codex unsicher)
+amanha        # amanhã → AMANHA liest auch als amanha (amanhar), Regel 3 (jetzt auch im Build)
+tcheca        # Demonym; in Brasilien auch vulgärer Slang (Familienregel-Ausnahme)
